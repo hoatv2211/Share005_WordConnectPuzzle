@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a96403f7d845296439c94364ca43ec18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Runtime/Level Select/LevelData.cs
+  uploadId: 865476

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82d915c5376d2104ba57bdc9d47147ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Assets/Prefabs/Level Button.prefab
+  uploadId: 865476

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d966a577f2d906247911271ba947f673
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Demo/Prefabs/Game Data/Level 5/cake.asset
+  uploadId: 865476

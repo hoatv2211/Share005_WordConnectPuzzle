@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e68d7c029040d6946b435c514db367d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Demo/Prefabs/Input System/Letter Input Button.prefab
+  uploadId: 865476

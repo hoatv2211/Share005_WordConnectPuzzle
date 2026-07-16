@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb12a4edc7886494f9d5c9a0caed7cdf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Assets/Fonts/OFL.txt
+  uploadId: 865476

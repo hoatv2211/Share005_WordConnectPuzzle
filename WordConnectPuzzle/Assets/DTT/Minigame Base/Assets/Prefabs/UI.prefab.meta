@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 217d5fff0f6332f4aa4a8bdb4df96f27
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Assets/Prefabs/UI.prefab
+  uploadId: 865476

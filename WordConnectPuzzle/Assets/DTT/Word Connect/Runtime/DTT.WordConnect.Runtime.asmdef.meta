@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81b21cb398672b14694d4899e3ed9a91
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Runtime/DTT.WordConnect.Runtime.asmdef
+  uploadId: 865476

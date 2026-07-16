@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 553d6544917f0d4428314bc4c371d8c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Demo/Prefabs/Game Data/Level 3/stew.asset
+  uploadId: 865476

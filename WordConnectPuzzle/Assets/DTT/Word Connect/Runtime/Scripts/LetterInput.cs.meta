@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5a84eaf4caa8004dba758cc6f621808
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Runtime/Scripts/LetterInput.cs
+  uploadId: 865476

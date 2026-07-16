@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6d720c843816456396c3317fb0d0b155
+timeCreated: 1655711379
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Runtime/Level Select/LevelSelectHandler.cs
+  uploadId: 865476

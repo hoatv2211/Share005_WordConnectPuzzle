@@ -1,0 +1,32 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEditor;
+
+[CustomEditor(typeof(GameMode))]
+public class GameModeEditor : Editor
+{
+    public override void OnInspectorGUI()
+    {
+        base.OnInspectorGUI();
+
+        if(GUILayout.Button("RESET ALL"))
+        {
+            PlayerPrefs.DeleteAll();
+            Debug.Log("DELETED ALL DATA");
+        }
+
+        if (GUILayout.Button("UNLOCK ALL"))
+        {
+            GlobalValue.LevelPass = 9999;
+
+            Debug.Log("UNLOCKED ALL");
+        }
+
+        if (GUILayout.Button("SET COIN 99999"))
+        {
+            GlobalValue.SavedCoins = 99999;
+            Debug.Log("SET COIN 99999");
+        }
+    }
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd74e4487757e9e42bfc4f8d6ae45470
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Advertisements/Editor/DTT.MinigameAdvertisements.Editor.asmdef
+  uploadId: 865476

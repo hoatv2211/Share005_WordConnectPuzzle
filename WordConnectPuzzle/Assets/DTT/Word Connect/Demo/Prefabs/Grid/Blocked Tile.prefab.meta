@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 517c5231d53049d4e8c02bc49cc6a568
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Demo/Prefabs/Grid/Blocked Tile.prefab
+  uploadId: 865476

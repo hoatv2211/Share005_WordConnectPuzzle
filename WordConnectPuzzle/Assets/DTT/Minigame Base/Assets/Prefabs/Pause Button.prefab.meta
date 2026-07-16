@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a64f8e363f8db764d9b52cc6e09b0d6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Minigame Base/Assets/Prefabs/Pause Button.prefab
+  uploadId: 865476

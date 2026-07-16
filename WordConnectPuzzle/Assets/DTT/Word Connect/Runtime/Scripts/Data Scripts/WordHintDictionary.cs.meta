@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f2e907acc0baeeb45a54a0d1fd6ecb45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Runtime/Scripts/Data Scripts/WordHintDictionary.cs
+  uploadId: 865476

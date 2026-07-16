@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e01d4998c67ad84ea35044ea31fd9b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236144
+  packageName: Word Connect Puzzle Game Template
+  packageVersion: 1.0.3
+  assetPath: Assets/DTT/Word Connect/Demo/Prefabs/Game Data/Level 2/Word Dictionary.asset
+  uploadId: 865476
